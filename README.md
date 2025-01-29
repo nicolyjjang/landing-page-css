@@ -30,14 +30,14 @@ O objetivo é estilizar a estrutura básica da Landing Page fornecida, desenvolv
 ## 🎨 Protótipo
 
 Para se basear no layout da Landing Page, você pode acessar o protótipo no **Figma**:  
-[**Link para o Figma**](#)  
+[**Link para o Figma**](https://www.figma.com/design/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0-1&p=f&t=tfwTJeyy3cc4PRTE-0)  
 
 ---
 
 ## 🖼️ Resultado Final
 
 Para visualizar o resultado final esperado da Landing Page, clique aqui:  
-[**Resultado Final**](#)  
+[**Resultado Final**](https://nicolyjjang.github.io/landing-page-css/)  
 
 Se preferir, você pode comparar seu trabalho com o site finalizado, disponível na branch `final`.  
 Use o comando abaixo para alternar para a branch final no terminal:  
